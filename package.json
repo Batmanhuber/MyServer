@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Batmanhuber/MyServer/issues"
   },
-  "homepage": "https://github.com/Batmanhuber/MyServer#readme"
+  "homepage": "https://github.com/Batmanhuber/MyServer#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
